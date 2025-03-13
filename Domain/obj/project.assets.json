@@ -3068,23 +3068,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\shady\\.nuget\\packages\\": {},
+    "C:\\Users\\shady.zaki\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Shady\\task\\bulk-insert-task\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\shady.zaki\\source\\repos\\bulk-insert-task\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Shady\\task\\bulk-insert-task\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\shady\\.nuget\\packages\\",
-      "outputPath": "D:\\Shady\\task\\bulk-insert-task\\Domain\\obj\\",
+      "projectPath": "C:\\Users\\shady.zaki\\source\\repos\\bulk-insert-task\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\shady.zaki\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shady.zaki\\source\\repos\\bulk-insert-task\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\shady\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shady.zaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3094,6 +3094,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
+        "D:\\Source\\nine-ms-domain\\bin\\Release": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://nuget.pkg.github.com/Nine-Co-Group/index.json": {}
       },
