@@ -4,3 +4,4 @@
 
 *.wsuo
 *.json
+/BulkInsertAPI/.vs
